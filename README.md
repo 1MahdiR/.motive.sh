@@ -15,3 +15,5 @@ fi
 Now enter ```$ source ~/.bashrc``` in command line.
 
 Now everytime you make a new terminal session a welcome message and a quote will be printed.
+
+You can also add your own quotes and welcome message to the script easily
