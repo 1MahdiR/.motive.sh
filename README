@@ -1,6 +1,8 @@
-##  .motive.sh
+
+# .motive.sh
 
 Just add the '.motive.sh' in your home directory
+
 and in '.bashrc' file add the following:
 
 ```
