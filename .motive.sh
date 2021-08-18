@@ -21,6 +21,11 @@ QUOTES=( \
 "Your success and happiness lie in you"
 "Focus on your goal.\nDon't look in any direction but ahead." \
 "If you can dream it, you can do it" \
+"Learn to build your empire with the bricks thrown at you." \
+"You will reap what you plant in your minds farm" \
+"If you want something you never had, you have to do something you've never done" \
+"Successful people never worry about what others are doing" \
+"Sometimes you have to fall for a new building" \
 )
 
 echo
