@@ -37,7 +37,7 @@ echo
 if [ $WELCOM_ENABLED = true ]; then echo $WELCOM_MESSAGE; echo; fi
 RAND=$(($RANDOM%${#QUOTES[@]}))
 
-echo ${QUOTES[$RAND]}
+echo -e ${QUOTES[$RAND]}
 echo
 echo
 
