@@ -17,8 +17,8 @@ QUOTES=( \
 "When you cease to dream you cease to live." \
 "There are no mistakes, only opportunities." \
 "It's going to be hard, but hard does not mean impossible." \
-"Success is the sum of small efforts, repeated day-in and day-out" \
-"Your success and happiness lie in you" \
+"Success is the sum of small efforts, repeated day-in and day-out." \
+"Your success and happiness lie in you." \
 "Focus on your goal.\nDon't look in any direction but ahead." \
 "If you can dream it, you can do it." \
 "Learn to build your empire with the bricks thrown at you." \
@@ -26,6 +26,11 @@ QUOTES=( \
 "If you want something you never had, you have to do something you've never done." \
 "Successful people never worry about what others are doing." \
 "Sometimes you have to fall for a new building." \
+"Failure is the best teacher." \
+"You miss all of the shots you don't take." \
+"The master has failed more times than the beginner has even tried." \
+"In order to succeed, we must first believe that we can." \
+"Be kind whenever possible. It is always possible." \
 )
 
 echo
