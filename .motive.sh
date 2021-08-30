@@ -1,7 +1,7 @@
 #!/bin/sh
 
-WELCOM_ENABLED=true
-WELCOM_MESSAGE="Hello there my friend!"
+WELCOME_ENABLED=true
+WELCOME_MESSAGE="Hello there my friend!"
 
 QUOTES=( \
 "The best revenge is massive success." \
@@ -34,7 +34,7 @@ QUOTES=( \
 )
 
 echo
-if [ $WELCOM_ENABLED = true ]; then echo $WELCOM_MESSAGE; echo; fi
+if [ $WELCOME_ENABLED = true ]; then echo $WELCOME_MESSAGE; echo; fi
 RAND=$(($RANDOM%${#QUOTES[@]}))
 
 echo -e ${QUOTES[$RAND]}
